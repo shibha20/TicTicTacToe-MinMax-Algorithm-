@@ -23,7 +23,7 @@ public class TicTicTacToe {
         boolean playerWin = winner(tempboard,initialPlayer); 
         
         
-        int numOf3PlayerMovesinARow =getScore(initialboard,initialPlayer);
+        int numOf3PlayerMovesinARow =getScore(initialboard,initialPlayer); 
                 
         //if the board assures ai's win, choose it 
         if (aiWin==true){
