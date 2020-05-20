@@ -1,10 +1,7 @@
 
 package tictictactoe;
 import java.util.*;
-/**
- *
- * @author jrsullins
- */
+
 public class TicTicTacToe {
 
    /* 1. First the heuristic checks whether the tempboard ensures the victory of the player or ai 
@@ -131,7 +128,7 @@ public class TicTicTacToe {
 }   
 
 
-/***************** END OF YOUR CODE ********************************/
+/***************** END OF MY CODE ********************************/
 
     
     /**
